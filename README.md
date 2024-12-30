@@ -84,6 +84,15 @@ Together, these technologies create a seamless experience for users.
    After answering all the questions, the quiz concludes, and users can view their performance summary (if implemented in the future).  
 
 ---
+---
+**OUTPUT OF THE TASK**:
+
+-![OUTPUT1](https://github.com/user-attachments/assets/7faab816-cde2-4ddd-ad24-d8c028740b28)
+-![OUTPUT2](https://github.com/user-attachments/assets/1b9acbfd-0eec-4624-bd5c-e0c5cc3e3841)
+-![OUTPUT3](https://github.com/user-attachments/assets/c61f7850-d865-49cd-8a94-e5cb710f5108)
+-![OUTPUT4](https://github.com/user-attachments/assets/79b56601-b6ca-4c2f-bbd4-20de9a570024)
+
+---
 
 ## **Future Enhancements**
 To make the application even more engaging and feature-rich, the following enhancements are planned:  
