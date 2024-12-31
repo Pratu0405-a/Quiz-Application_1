@@ -85,7 +85,7 @@ Together, these technologies create a seamless experience for users.
 
 ---
 ---
-**OUTPUT OF THE TASK**:
+# OUTPUT OF THE TASK :
 
 -![OUTPUT1](https://github.com/user-attachments/assets/7faab816-cde2-4ddd-ad24-d8c028740b28)
 -![OUTPUT2](https://github.com/user-attachments/assets/1b9acbfd-0eec-4624-bd5c-e0c5cc3e3841)
